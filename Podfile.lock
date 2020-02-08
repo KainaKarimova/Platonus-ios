@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.3)
+  - PKHUD (5.1.0)
+  - SideMenuSwift (0.4.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - PKHUD (~> 5.0)
+  - SideMenuSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - PKHUD
+    - SideMenuSwift
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  PKHUD: 62ea46a1e88c4def1da784878d199bb54c841e3c
+  SideMenuSwift: c4309bd978c61a61d5941eb0fa2112f6b346a331
+
+PODFILE CHECKSUM: 7ba7844d71e2bb0a249a226f92ca9814c1693202
+
+COCOAPODS: 1.5.3

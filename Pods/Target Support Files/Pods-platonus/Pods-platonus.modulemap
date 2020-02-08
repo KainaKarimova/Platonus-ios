@@ -1,0 +1,6 @@
+framework module Pods_platonus {
+  umbrella header "Pods-platonus-umbrella.h"
+
+  export *
+  module * { export * }
+}
